@@ -1,28 +1,34 @@
 {
-    "products": [
-        {
-            "id":"1",
-            "name": "Mechanic keyboard",
-            "description": "Razer master p301 keyboard",
-            "price": "100"
-        },
-        {
-            "id":"2",
-            "name": "Wireless Mouse",
-            "description": "Logitech MX Master 3 ergonomic mouse",
-            "price": "75"
-        },
-        {
-            "id":"3",
-            "name": "Gaming Monitor",
-            "description": "27-inch 144Hz Full HD monitor",
-            "price": "250"
-        },
-        {
-            "id":"4",
-            "name": "Noise Cancelling Headphones",
-            "description": "Sony WH-1000XM5 wireless headphones",
-            "price": "350"
-        }
-    ]
+  "products": [
+    {
+      "id": "1",
+      "name": "Mechanic keyboard",
+      "description": "Razer master p301 keyboard",
+      "price": "100"
+    },
+    {
+      "id": "2",
+      "name": "Wireless Mouse",
+      "description": "Logitech MX Master 3 ergonomic mouse",
+      "price": "75"
+    },
+    {
+      "id": "3",
+      "name": "Gaming Monitor",
+      "description": "27-inch 144Hz Full HD monitor",
+      "price": "250"
+    },
+    {
+      "id": "4",
+      "name": "Noise Cancelling Headphones",
+      "description": "Sony WH-1000XM5 wireless headphones",
+      "price": "350"
+    },
+    {
+      "id": "f2b9",
+      "name": "Mouse Super gamer bro",
+      "description": "Racer master gamming mouse",
+      "price": "249"
+    }
+  ]
 }
