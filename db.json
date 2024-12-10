@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "name": "Mechanic keyboard",
+            "description": "Razer master p301 keyboard",
+            "price": "100"
+        },
+        {
+            "name": "Wireless Mouse",
+            "description": "Logitech MX Master 3 ergonomic mouse",
+            "price": "75"
+        },
+        {
+            "name": "Gaming Monitor",
+            "description": "27-inch 144Hz Full HD monitor",
+            "price": "250"
+        },
+        {
+            "name": "Noise Cancelling Headphones",
+            "description": "Sony WH-1000XM5 wireless headphones",
+            "price": "350"
+        }
+    ]
+}
