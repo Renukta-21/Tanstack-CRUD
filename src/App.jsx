@@ -1,14 +1,10 @@
 import { useQuery } from "@tanstack/react-query"
-import axios from "axios"
+import {getAll} from './services/productServices'
 
 function App() {
-  const fetchProducts = async()=>{
-    const response = await axios.get('http://localhost:3000/products')
-    return response.data
-  }
   const {isPending, isError, data, error} = useQuery({
     queryKey:['products'],
-    queryFn:fetchProducts
+    queryFn:getAll
   })
 
   if(isPending) return <p>Fethcing data...</p>
